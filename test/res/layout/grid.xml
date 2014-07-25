@@ -1,0 +1,18 @@
+<com.pixplicity.choicegridview.GridLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_grid"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="32dp"
+        android:text="Hello, world!"
+        android:textColor="#ffffff" />
+
+</com.pixplicity.choicegridview.GridLinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="normal">#808080</color>
+    <color name="pressed">#A04040</color>
+    <color name="checked">#40A040</color>
+
+</resources>
